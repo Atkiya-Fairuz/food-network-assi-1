@@ -35,7 +35,20 @@ body{
     display: flex;
     align-items: center;
 }
+.about-me{
+   width: 80%;
+   margin-left: 105px;
+   position: relative;
+   text-align: left;
+   color: solid black;
+}
 
+.centered{
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    
+}
 
 
 
