@@ -89,6 +89,7 @@ body{
     height: 20%;
     align-content: 2%;
     padding: auto;
+    margin-bottom: 2%;
     }
 
 .message-title{
@@ -97,12 +98,14 @@ body{
 
  .fifth-part{
     display: flex;
-    box-shadow: 8px 8px 10px 20px gray;
+    box-shadow: 5px 5px 10px 10px gray;
     border-radius: 10px;
-    border-left: 2%;
+   
     width: 30%;
     padding: 1%;
-    margin-left: 2%;
+    margin-left: 34%;
+    margin-bottom: 2%;
+    margin-right: 5%;
     
 } 
 
@@ -115,6 +118,10 @@ body{
 
 .caption-2{
     color: mintcream;
+}
+
+.instruction{
+    text-align: center;
 }
 
 
