@@ -83,6 +83,39 @@ body{
 
 }
 
+.message-from-atkiya{
+   
+    text-align: center;
+    height: 20%;
+    align-content: 2%;
+    padding: auto;
+    }
+
+.message-title{
+    color: red;
+}
+
+ .fifth-part{
+    display: flex;
+    box-shadow: 8px 8px 10px 20px gray;
+    border-radius: 10px;
+    border-left: 2%;
+    width: 30%;
+    padding: 1%;
+    margin-left: 2%;
+    
+} 
+
+.caption{
+    text-align: center;
+    background-color:mediumvioletred;
+    padding : 30px 0;
+   
+    }
+
+.caption-2{
+    color: mintcream;
+}
 
 
 
