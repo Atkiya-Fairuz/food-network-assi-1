@@ -1,4 +1,45 @@
-h1{
-    color: brown;
+body{
+    font-family: 'Lato', sans-serif;
 }
+
+.red-color{
+    color: red;
+}
+
+.half-width{
+    width: 50%;
+    padding: 2%;
+    margin-top: 30px;
+    margin-left: 80px;
+    
+}
+
+.half-width img{
+    width: 70%;
+    margin-right: 80px;
+    
+    
+}
+
+.link-button{
+    background-image: linear-gradient(red,magenta);
+    padding: 10px 30px;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 700;
+
+}
+
+#first-sight{
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+
+
+
 
